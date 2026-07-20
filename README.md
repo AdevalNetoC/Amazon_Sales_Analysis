@@ -15,7 +15,7 @@ O objetivo é transformar um dataset bruto de produtos da Amazon em um dashboard
 
 ## Etapas
 
-- [ ] Exploração do dataset
+- [X] Exploração do dataset
 - [ ] Limpeza dos dados com Python
 - [ ] Limpeza equivalente com Power Query
 - [ ] Construção do dashboard
