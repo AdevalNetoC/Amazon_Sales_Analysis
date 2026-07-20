@@ -24,3 +24,5 @@ O objetivo é transformar um dataset bruto de produtos da Amazon em um dashboard
 ## Dataset
 
 Amazon Products Dataset
+
+## Comparação das abordagens
